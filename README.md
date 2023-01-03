@@ -1,4 +1,4 @@
-<h5 align="left">You can check the weather in your city</h3>
+<h3 align="left">You can check the weather in your city</h3>
 <hr>
 <pre class="notranslate"><code>$ pip install django==4.1.4</code></pre>
 <hr>
